@@ -1,6 +1,8 @@
 # Bb_Dash
 
-Using plotly Dash to create an interactive Dashboard for Blackboard Reports
+Using plotly Dash to create an interactive Dashboard for Blackboard Reports.
+
+More infomraiton about Plotly Dash - https://dash.plotly.com/introduction
 
 1) Active Users in Blackboard
 
