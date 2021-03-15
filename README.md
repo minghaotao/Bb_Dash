@@ -1,4 +1,5 @@
 # Bb_Dash
+
 Using Dash to create an interactive Dashboard for Blackboard Reports
 
 1) Active Users in Blackboard
@@ -7,6 +8,8 @@ Using Dash to create an interactive Dashboard for Blackboard Reports
 
     b.Export the data into a CSV file
 
-    c. visualize through plotly Dash
+    c.visualize through plotly Dash with every two hours
+    
+  
 
     
